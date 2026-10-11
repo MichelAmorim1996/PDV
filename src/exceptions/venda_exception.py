@@ -1,0 +1,3 @@
+class VendaCanceladaError(Exception):
+
+    pass
